@@ -16,6 +16,14 @@ To run the experiments, a hardware system with CPU specifications Intel Core i5 
 
 
 
+Presentation on TDMANN: Time Distributed Memory Augmented Neural Networks
+Description:
+This PowerPoint presentation provides an overview of the research paper titled "TDMANN: Time Distributed Memory Augmented Neural Networks." The slides outline the motivation behind the model, its architecture, key innovations, and how it integrates memory mechanisms to handle sequential data more effectively. The presentation also includes experimental results and comparisons with baseline models, highlighting TDMANN's strengths in temporal learning tasks. It serves as a helpful resource for students, researchers, and professionals interested in advanced neural network architectures for time-series analysis.
+
+link: https://github.com/MortezaKarimian/TDMANN/blob/main/TDMANN_presentation.ppsx
+
+
+
 
 
 
