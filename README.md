@@ -30,6 +30,11 @@ This source code and the values provided within it are tailored to the IV2A data
 For complete information and full details, please refer to the corresponding article.  
 https://www.sciencedirect.com/science/article/abs/pii/S1568494624005453
 
+To access the code for the NTM class, please visit the following link:  
+https://github.com/flomlo/ntm_keras
 
+
+To access the code for the DNC class, please visit the following link:  
+https://github.com/willsq/tf-DNC
 
 
