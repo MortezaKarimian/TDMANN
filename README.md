@@ -25,7 +25,10 @@ This PowerPoint presentation provides an overview of the research paper titled "
 link: https://github.com/MortezaKarimian/TDMANN/blob/main/TDMANN_presentation.ppsx
 
 
-
+# About the source code  
+This source code and the values provided within it are tailored to the IV2A dataset.
+For complete information and full details, please refer to the corresponding article.  
+https://www.sciencedirect.com/science/article/abs/pii/S1568494624005453
 
 
 
